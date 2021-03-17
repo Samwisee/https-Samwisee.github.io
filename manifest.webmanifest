@@ -10,5 +10,6 @@
     }
   ],
   "name": "Showme",
-  "short_name": "Showme"
+  "short_name": "Showme",
+  "start_url": "www.showme.band"
 }
